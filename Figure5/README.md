@@ -10,11 +10,11 @@ This program works with images 488 (cell selections of interest) and 561 (signal
 
 ## Operation:
 This program is divided into several functions named phase1(), phase2(),...      
-phase 1: Pre-processes the image of channel 488 (Anisotropic filter)
-2 : Cellpose (Segmentation)  
-3 : Cellpose (Cell pool extraction) 
-phase 4: Filtering of the cells according to their surfaces + calculation of their volume  
-phase 5: Extraction of Spots  
-phase 6 : Cluster coordinates retrieval  
-phase 7: Count the number of Spots per cell  
-phase 8 : Intensity measurement of each Spot contained in each cell  
+- phase 1: Pre-processes the image of channel 488 (Anisotropic filter)
+- phase 2 : Cellpose (Segmentation)  
+- phase 3 : Cellpose (Cell pool extraction) 
+- phase 4: Filtering of the cells according to their surfaces + calculation of their volume  
+- phase 5: Extraction of Spots  
+- phase 6 : Cluster coordinates retrieval  
+- phase 7: Count the number of Spots per cell  
+- phase 8 : Intensity measurement of each Spot contained in each cell  
