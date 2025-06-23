@@ -1,7 +1,7 @@
 # Zilliox-Letort_2024
 Cxcl12a chemokine activation distribution controls olfactory placode morpho-genesis in zebrafish embryos
 
-Here you will find all the elements corresponding to the figures described in the paper Zilliox, Letort et al., 2024, i.e. the different conditions of the mathematical model developed to understand the morphogenesis of the olfactory epithelium.
+Here you will find all the elements corresponding to the figures described in the paper Zilliox, Letort et al., 2024, i.e. the different conditions of the mathematical model developed to understand the morphogenesis of the olfactory placode.
 
 By figure and for each condition, you will find:
 - Source codes in Python 
